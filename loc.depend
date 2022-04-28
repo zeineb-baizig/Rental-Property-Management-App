@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1610532124 source:c:\users\dell\desktop\pm\loc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+
+1610197768 c:\users\dell\desktop\pm\loc\saisieloc.h
+
+1610563921 source:c:\users\dell\desktop\pm\loc\saisieloc.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1610616637 source:c:\users\zeine\onedrive\documents\kraya\mp c\nouveau dossier (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+	<windows.h>
+
+1610612707 c:\users\zeine\onedrive\documents\kraya\mp c\nouveau dossier (2)\saisieloc.h
+
+1610619023 source:c:\users\zeine\onedrive\documents\kraya\mp c\nouveau dossier (2)\saisieloc.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1610616637 source:c:\users\zeine\onedrive\documents\kraya\mp c\gestion de location immobilières\main.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+	<windows.h>
+
+1610612707 c:\users\zeine\onedrive\documents\kraya\mp c\gestion de location immobilières\saisieloc.h
+
+1610631622 source:c:\users\zeine\onedrive\documents\kraya\mp c\gestion de location immobilières\saisieloc.c
+	<stdio.h>
+	<stdlib.h>
+	"saisieloc.h"
+	<string.h>
+	<time.h>
+	<ctype.h>
+
